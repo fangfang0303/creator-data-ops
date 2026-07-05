@@ -1,7 +1,0 @@
-interface:
-  display_name: "自媒体数据运营"
-  short_description: "多平台账号抓数、定时更新和本地/飞书展示"
-  brand_color: "#D45A2A"
-  default_prompt: "Use $creator-data-ops to start creator account data collection and choose local or Feishu storage."
-policy:
-  allow_implicit_invocation: true
